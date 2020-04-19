@@ -1,0 +1,14 @@
+date;amount;partner_name;partner;category;reason;type
+1.3.2018;-10;Aldi;;Essentials;;
+1.3.2018;22.5;DB Vertrieb GmbH;DE08500800000091331501;Essentials;;
+2.3.2018;200;Company;;Income;;
+2.3.2018;-30;Lidl;;Essentials;;
+3.3.2018;22.5;DB Vertrieb GmbH;DE08500800000091331501;Essentials;;
+5.3.2018;-50;Company;;Insurance;;
+2.4.2018;200;Company;;Income;;
+5.4.2018;-50;Company;;Insurance;;
+6.4.2018;-10;Lidl;;Essentials;;
+7.4.2018;-50;Company;;Insurance;;
+8.4.2018;-10;Lidl;;Essentials;;
+9.4.2018;-10;Lidl;;Essentials;;
+10.4.2018;-10;SomethingElse;;Unknown;;

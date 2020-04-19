@@ -1,0 +1,60 @@
+Category;FilterType;Configuration
+Rent;Reason;Miete
+Rent;Reason;Nebenkosten
+Essentials;PartnerName;lidl
+Essentials;PartnerName;DM-Drogerie
+Essentials;PartnerName;ALDI
+Essentials;PartnerName;Mueller
+Essentials;PartnerName;ROSSMANN
+Essentials;PartnerName;MVG
+Essentials;PartnerName;AGIP
+Essentials;PartnerName;Tengelmann
+Essentials;PartnerName;Netto
+Essentials;PartnerName;Edeka
+Essentials;PartnerName;REWE
+Essentials;PartnerName;DEICHMANN
+Essentials;Reason;Internet
+Essentials;Reason;Fahrt
+Essentials;Reason;GEZ
+Essentials;Reason;Penny
+Essentials;PartnerName;Penny
+Essentials;PartnerName;Apotheke
+Essentials;PartnerName;Arena One
+Essentials;PartnerName;Business Campus Unters
+Essentials;PartnerName;ARENA - ONE MITARBEITERREST
+Essentials;Reason;Strom
+Essentials;PartnerName;DB BAHN
+Essentials;PartnerName;DB Vertrieb
+Essentials;PartnerName;DB AUTOMATEN
+Essentials;Reason;DBVERTRIEB
+Essentials;IBAN;DE33700202700000091600
+Essentials;Type;Aufladung Mobilfunkguthaben
+Essentials;PartnerName;BMW BKK
+Essentials;Reason;Kundendienst Auto
+Essentials;PartnerName;OMV
+Essentials;PartnerName;Tankstelle
+Essentials;PartnerName;AVIA
+Sparetime;PartnerName;VAPIANO
+Sparetime;PartnerName;MC.*DONALD
+Sparetime;PartnerName;AMAZON
+Sparetime;Reason;Geschenk
+Sparetime;Reason;schnaps
+Sparetime;Reason;Grillen
+Sparetime;PartnerName;Bowl
+Sparetime;Reason;Urlaub
+Sparetime;PartnerName;Johannes Eder
+Sparetime;PartnerName;Stefan Obermeier
+Sparetime;PartnerName;Hans Voelkel
+Sparetime;Reason;Essen
+Sparetime;PartnerName;Sonja Holzer
+Sparetime;PartnerName;KART PALAST
+Sparetime;PartnerName;DriveNow
+Sparetime;Reason;UBER
+Sparetime;Reason;MOTELONE
+Sparetime;PartnerName;N26 Bank
+Cash;Type;Auszahlung
+Cash;Type;Cash26
+Sport;PartnerName;Intersport
+Income;Type;Dividende
+Income;PartnerName;Finanzamt
+Income;Reason;Kirchensteuer
